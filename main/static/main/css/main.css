@@ -1,0 +1,39 @@
+.left{
+    margin-right:100px;
+    text-align:right;
+    font-size:14px;
+    float:left;
+    padding:20px;
+    letter-spacing:10px;
+}
+
+.links{
+    margin-left:48%;
+    margin-top:3%;
+    text-align:right;
+    font-size:14px;
+    float:left;
+}
+
+span{
+    float:left;
+}
+
+.body{
+
+}
+
+a {
+    margin:15px;
+    text-decoration:none;
+    color:black;
+}
+
+p {
+    padding:10px;
+    font-size:30px;
+    letter-spacing:10px;
+    text-align:center;
+}
+
+
